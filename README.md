@@ -1,14 +1,13 @@
-## Hi there,im Salma Sharleen 👋
-###About me 
-i am currently working on introduction to *git and githuhub*
-i am currently learning **version control**
-Fun fact:I just started my github journey today!
+# Hi there, I'm Salma Sharleen 👋
 
-###Tech stack
-**Tools:**Git,Github,VS Code
-**Languages:**HTML,CSS,Markdown
+### About me
+I am currently working on **Introduction to Git and GitHub**. I am currently learning **Version Control** and I just started my GitHub journey today!
 
-###How to reach me 
-0791734691
+### Tech stack 
+* **Tools:** Git, GitHub, VS Code
+* **Languages:** HTML, CSS, Markdown
+
+### How to reach me 
+📞 0791734691
 
 
