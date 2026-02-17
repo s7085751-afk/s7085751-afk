@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there,im Salma Sharleen 👋
+###About me 
+i am currently working on introduction to *git and githuhub*
+i am currently learning **version control**
+Fun fact:I just started my github journey today!
 
-<!--
-**s7085751-afk/s7085751-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Tech stack
+**Tools:**Git,Github,VS Code
+**Languages:**HTML,CSS,Markdown
 
-Here are some ideas to get you started:
+###How to reach me 
+0791734691
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
