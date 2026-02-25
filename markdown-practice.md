@@ -21,7 +21,8 @@ In this course, I am learning how to write **bold** text, use *italics* for emph
 | VS Code | Code Editor | [Visit](https://code.visualstudio.com/) |
 | GitHub | Version Control | [Visit](https://github.com/) |
 
-#### Learning Task List
+## Learning Task List
+
 - [x] Create a GitHub account
 - [x] Complete Markdown basics
 - [ ] Master CSS Flexbox
@@ -29,7 +30,7 @@ In this course, I am learning how to write **bold** text, use *italics* for emph
 
 ```python
 def hello_world():
-    print("I am learning Markdown syntax!")```
+    print("I am learning Markdown syntax!")
 
 > This is a blockquote. I am learning coding.
 
