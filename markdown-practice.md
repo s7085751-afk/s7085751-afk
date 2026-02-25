@@ -31,7 +31,7 @@ In this course, I am learning how to write **bold** text, use *italics* for emph
 def hello_world():
     print("I am learning Markdown syntax!")
 
->This is a blockquote.i am learning coding
+> This is a blockquote.i am learning coding
 
 Hello!my name is Sharleen Salma.i am an aspiring developer currently learning markdown.
 I enjoy:
