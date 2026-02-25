@@ -28,8 +28,7 @@ In this course, I am learning how to write **bold** text, use *italics* for emph
 - [ ] Master CSS Flexbox
 - [ ] Build a full React app
 
-```
-python
+```python
 def hello_world():
     print("I am learning Markdown syntax!"
 ```
@@ -42,4 +41,5 @@ I enjoy:
 1. Coding
 2. Problem solving
 3. Designing UI
-check out my favourite website for inspiration.
+check out my favourite website for inspiration:
+[Github](https://github.com)
