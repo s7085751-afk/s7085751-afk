@@ -28,15 +28,17 @@ In this course, I am learning how to write **bold** text, use *italics* for emph
 - [ ] Master CSS Flexbox
 - [ ] Build a full React app
 
-```python
+```
+python
 def hello_world():
     print("I am learning Markdown syntax!")
                                   ```
 
 > This is a blockquote. I am learning coding.
 
-Hello!my name is Sharleen Salma.i am an aspiring developer currently learning markdown.
+Hello! My name is Sharleen Salma. I am an aspiring developer currently learning markdown.
 I enjoy:
+
 1. Coding
 2. Problem solving
 3. Designing UI
