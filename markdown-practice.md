@@ -1,0 +1,41 @@
+## My Learning Goals
+### This Semester
+
+In this course, I am learning how to write **bold** text, use *italics* for emphasis, and even write `inline code` snippets.
+
+* [My GitHub Profile](https://github.com/s7085751-afk)
+* [MDN Web Docs - Useful Resource](https://developer.mozilla.org/en-US/)
+
+#### Things I want to learn:
+* Advanced CSS Grid
+* JavaScript Frameworks
+* Backend Databases
+
+#### Steps to make a Git commit:
+1. Use `git add .` to stage your changes.
+2. Use `git commit -m "your message"` to label the change.
+3. Use `git push` to send the code to GitHub.
+
+| Tool | Purpose | Link |
+| :--- | :--- | :--- |
+| VS Code | Code Editor | [Visit](https://code.visualstudio.com/) |
+| GitHub | Version Control | [Visit](https://github.com/) |
+
+#### Learning Task List
+- [x] Create a GitHub account
+- [x] Complete Markdown basics
+- [ ] Master CSS Flexbox
+- [ ] Build a full React app
+
+```python
+def hello_world():
+    print("I am learning Markdown syntax!")
+
+>This is a blockquote.i am learning coding
+
+Hello!my name is Sharleen Salma.i am an aspiring developer currently learning markdown.
+I enjoy:
+1. Coding
+2. Problem solving
+3. Designing UI
+check out my favourite website for inspiration.
