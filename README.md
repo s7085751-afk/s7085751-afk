@@ -1,7 +1,8 @@
 <p align="center">
   <img src="banner .png.png" alt="Salma Sharleen Banner" width="100%">
 </p>
-# Salma Sharleen 👋
+
+# Salma Sharleen👋
 
 ### About me
 I am currently working on my Actuarial science degree while building web projects like **The Don flowers kenya** and **shop with C&S**
