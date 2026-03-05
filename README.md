@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hi there, I'm Salma Sharleen 👋
 
 ### About me
