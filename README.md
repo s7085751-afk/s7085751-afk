@@ -1,4 +1,6 @@
-![Banner](banner.png)
+<p align="center">
+  <img src="banner.png" alt="Salma Sharleen Banner" width="100%">
+</p>
 # Hi there, I'm Salma Sharleen 👋
 
 ### About me
