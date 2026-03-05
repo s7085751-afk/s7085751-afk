@@ -4,7 +4,8 @@
 # Hi there, I'm Salma Sharleen 👋
 
 ### About me
-I am currently working on **Introduction to Git and GitHub**. I am currently learning **Version Control** and I just started my GitHub journey today!
+I am currently working on my Actuarial science degree while building web projects like **The Don flowers kenya** and **shop with C&S**
+🍀I am currently learning **Java(OOP),HTML/CSS** and **Version control**
 
 ### Tech stack 
 * **Tools:** Git, GitHub, VS Code
