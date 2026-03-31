@@ -14,5 +14,5 @@ I am currently working on my Actuarial science degree while building web project
 
 ### How to reach me 
 📞 0791734691
-
+ 📩s7085751@gmail.com
 
