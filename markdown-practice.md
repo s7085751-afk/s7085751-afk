@@ -1,3 +1,5 @@
+![Banner](banner.png)
+# My Learning Goals
 ## My Learning Goals
 ### This Semester
 
@@ -30,7 +32,7 @@ In this course, I am learning how to write **bold** text, use *italics* for emph
 
 ```python
 def hello_world():
-    print("I am learning Markdown syntax!"
+    print("I am learning Markdown syntax!")
 ```
 
 > This is a blockquote. I am learning coding.
